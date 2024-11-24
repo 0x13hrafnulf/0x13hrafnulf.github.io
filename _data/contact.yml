@@ -10,7 +10,6 @@
 
 - name: Email
   icon: "fas fa-envelope"
-  url: "hrafnulf13@gmail.com"
   noblank: true # open link in current tab
 
 - name: Hackthebox
