@@ -52,13 +52,16 @@ Last updated Nov 25, 2024.
 
 # Pwn College
 
-| Module | Provider | Status | Completion |
-| ------ | -------- | ------ | ---------- |
+| Module      | Provider | Status | Completion |
+| ----------- | -------- | ------ | ---------- |
+| To be added | -        | -      | -          |
 
 # CryptoHacks
 
-| Module | Provider | Status | Completion |
-| ------ | -------- | ------ | ---------- |
+| Module      | Provider | Status | Completion |
+| ----------- | -------- | ------ | ---------- |
+| To be added | -        | -      | -          |
+
 
 # CTFs
 
