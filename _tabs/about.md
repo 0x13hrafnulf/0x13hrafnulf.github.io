@@ -6,6 +6,13 @@ order: 4
 
 Last updated Nov 25, 2024.
 
+- [Certifications](#certifications)
+- [Courses \& Training](#courses--training)
+- [Labs](#labs)
+- [Pwn College](#pwn-college)
+- [CryptoHacks](#cryptohacks)
+- [CTFs](#ctfs)
+
 # Certifications
 
 * [CPTS (January 20, 2024)](https://www.credly.com/badges/e933a070-c9e7-4159-a06a-6c42a5482185/public_url)
