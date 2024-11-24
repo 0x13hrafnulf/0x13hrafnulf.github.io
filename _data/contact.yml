@@ -1,14 +1,25 @@
 #  The contact options.
 
-- type: github
+- name: Github
   icon: "fab fa-github"
+  url: "https://www.github.com/0x13hrafnulf"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/hrafnulf13"
 
-- type: email
+- name: Email
   icon: "fas fa-envelope"
+  url: "hrafnulf13@gmail.com"
   noblank: true # open link in current tab
+
+- name: Hackthebox
+  icon: "fa-solid fa-cube"
+  url: "https://app.hackthebox.com/profile/121121"
+
+- name: Cryptohacks
+  icon: "fa-solid fa-brain"
+  url: "https://cryptohack.org/user/hrafnulf13/"
 
 - type: rss
   icon: "fas fa-rss"
