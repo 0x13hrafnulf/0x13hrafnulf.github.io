@@ -19,13 +19,13 @@ Last updated Nov 25, 2024.
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---------- |
 | Active Directory Penetration Tester                                                                                    | [HTB Academy](https://academy.hackthebox.com/)                  | In Progress | -          |
 | BOF Development and Tradecraft                                                                                         | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | In Progress | -          |
-| [Bug Bounty Hunter](https://academy.hackthebox.com/achievement/badge/04a53615-d774-11ed-acfc-bea50ffe6cb4)             | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2023   |
-| [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)            | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2023   |
-| [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                   | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Jan 2024   |
-| [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2024   |
-| Red Team Operator                                                                                                      | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
-| Malware Development Course                                                                                             | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
 | Red Team Lead                                                                                                          | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2024   |
+| Malware Development Course                                                                                             | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
+| Red Team Operator                                                                                                      | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
+| [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2024   |
+| [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                   | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Jan 2024   |
+| [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)            | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2023   |
+| [Bug Bounty Hunter](https://academy.hackthebox.com/achievement/badge/04a53615-d774-11ed-acfc-bea50ffe6cb4)             | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2023   |
 
 # Labs
 
@@ -44,10 +44,10 @@ Last updated Nov 25, 2024.
 | Wutai               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shinra              | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
-| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2024   |
-| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2024   |
-| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2024   |
 | Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2024   |
+| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2024   |
+| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2024   |
+| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2024   |
 
 # Pwn College
 
