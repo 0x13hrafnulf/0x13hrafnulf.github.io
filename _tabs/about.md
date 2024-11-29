@@ -15,17 +15,17 @@ Last updated Nov 25, 2024.
 
 # Courses & Training
 
-| Course                                                                                                                 | Provider                                                        | Status      | Completion |
-| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---------- |
-| Active Directory Penetration Tester                                                                                    | [HTB Academy](https://academy.hackthebox.com/)                  | In Progress | -          |
-| BOF Development and Tradecraft                                                                                         | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | In Progress | -          |
-| Red Team Lead                                                                                                          | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2024   |
-| Malware Development Course                                                                                             | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
-| Red Team Operator                                                                                                      | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
-| [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2024   |
-| [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                   | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Jan 2024   |
-| [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)            | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2023   |
-| [Bug Bounty Hunter](https://academy.hackthebox.com/achievement/badge/04a53615-d774-11ed-acfc-bea50ffe6cb4)             | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2023   |
+| Course                                                                                                                       | Provider                                                        | Status      | Completion |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---------- |
+| BOF Development and Tradecraft                                                                                               | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | In Progress | -          |
+| [Active Directory Penetration Tester](https://academy.hackthebox.com/achievement/badge/c20eaa35-ae93-11ef-864f-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Nov 2024   |
+| Red Team Lead                                                                                                                | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2024   |
+| Malware Development Course                                                                                                   | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
+| Red Team Operator                                                                                                            | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
+| [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4)       | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2024   |
+| [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                         | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Jan 2024   |
+| [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)                  | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2023   |
+| [Bug Bounty Hunter](https://academy.hackthebox.com/achievement/badge/04a53615-d774-11ed-acfc-bea50ffe6cb4)                   | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2023   |
 
 # Labs
 
@@ -67,5 +67,5 @@ Last updated Nov 25, 2024.
 | Name                | Provider                                | Rank     |
 | ------------------- | --------------------------------------- | -------- |
 | HTB Season 5        | [HTB Labs](https://app.hackthebox.com/) | 43/7825  |
-| HTB Apocalypse 2023 | [HTB](https://ctf.hackthebox.com/)      | 188/6483 |
 | HTB Apocalypse 2024 | [HTB](https://ctf.hackthebox.com/)      | 206/5694 |
+| HTB Apocalypse 2023 | [HTB](https://ctf.hackthebox.com/)      | 188/6483 |
