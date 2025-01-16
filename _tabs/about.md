@@ -17,11 +17,11 @@ Last updated Nov 25, 2024.
 
 | Course                                                                                                                       | Provider                                                        | Status      | Completion |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---------- |
-| BOF Development and Tradecraft                                                                                               | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | In Progress | -          |
+| [BOF Development and Tradecraft](https://training.zeropointsecurity.co.uk/courses/bof-dev-and-tradecraft)                    | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | In Progress | -          |
 | [Active Directory Penetration Tester](https://academy.hackthebox.com/achievement/badge/c20eaa35-ae93-11ef-864f-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Nov 2024   |
-| Red Team Lead                                                                                                                | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2024   |
-| Malware Development Course                                                                                                   | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
-| Red Team Operator                                                                                                            | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
+| [Red Team Lead](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii)                                            | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2024   |
+| [Malware Development Course](https://maldevacademy.com/syllabus)                                                             | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
+| [Red Team Operator](https://training.zeropointsecurity.co.uk/courses/red-team-ops)                                           | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
 | [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4)       | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2024   |
 | [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                         | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Jan 2024   |
 | [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)                  | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2023   |
