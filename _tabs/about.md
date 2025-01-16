@@ -44,10 +44,10 @@ Last updated Nov 25, 2024.
 | Wutai               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shinra              | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
-| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2024   |
-| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2024   |
-| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2024   |
-| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2024   |
+| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
+| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
+| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
+| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
 
 # Pwn College
 
@@ -69,3 +69,4 @@ Last updated Nov 25, 2024.
 | HTB Season 5        | [HTB Labs](https://app.hackthebox.com/) | 43/7825  |
 | HTB Apocalypse 2024 | [HTB](https://ctf.hackthebox.com/)      | 206/5694 |
 | HTB Apocalypse 2023 | [HTB](https://ctf.hackthebox.com/)      | 188/6483 |
+| HTB Apocalypse 2022 | [HTB](https://ctf.hackthebox.com/)      | 454/7024 |
