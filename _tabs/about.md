@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated Nov 25, 2024.
+Last updated Jan 25, 2025.
 
 # Certifications
 * [CWEE (November 23, 2024)](https://www.credly.com/badges/a26acf65-d95d-477f-8ec1-53a70c5894d8/public_url)
@@ -31,10 +31,14 @@ Last updated Nov 25, 2024.
 
 | Lab                 | Provider                                | Status    | Completion |
 | ------------------- | --------------------------------------- | --------- | ---------- |
+| FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Jan 2025   |
+| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
+| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
+| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
+| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
 | Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
 | AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
 | Alchemy Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
 | Solar Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
 | P.O.O Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
 | Xen Pro Lab         | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
@@ -44,10 +48,7 @@ Last updated Nov 25, 2024.
 | Wutai               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shinra              | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
-| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
-| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
-| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
-| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
+
 
 # Pwn College
 
