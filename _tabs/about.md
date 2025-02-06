@@ -31,7 +31,7 @@ Last updated Feb 7, 2025.
 
 | Lab                 | Provider                                | Status    | Completion |
 | ------------------- | --------------------------------------- | --------- | ---------- |
-| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Pending   | Feb 2025   |
+| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Complete  | Feb 2025   |
 | FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Jan 2025   |
 | Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
 | Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
