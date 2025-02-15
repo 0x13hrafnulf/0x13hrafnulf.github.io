@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated Feb 7, 2025.
+Last updated Feb 15, 2025.
 
 # Certifications
 * [CWEE (November 23, 2024)](https://www.credly.com/badges/a26acf65-d95d-477f-8ec1-53a70c5894d8/public_url)
@@ -31,19 +31,13 @@ Last updated Feb 7, 2025.
 
 | Lab                 | Provider                                | Status    | Completion |
 | ------------------- | --------------------------------------- | --------- | ---------- |
-| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Complete  | Feb 2025   |
+| AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Completed | Feb 2025   |
+| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Completed | Feb 2025   |
 | FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Jan 2025   |
 | Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
 | Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed | Aug 2023   |
 | Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
 | Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed | Jul 2023   |
-| AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| Alchemy Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| Solar Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| P.O.O Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| Xen Pro Lab         | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| RPG Pro Lab         | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
-| Hades Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Pending   | -          |
 | Ifrit               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Wutai               | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
 | Shinra              | [VulnLabs](https://www.vulnlab.com/)    | Pending   | -          |
