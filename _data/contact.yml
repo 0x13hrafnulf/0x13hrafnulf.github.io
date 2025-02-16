@@ -1,14 +1,17 @@
 #  The contact options.
+- type: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/bektur-umarbaev-0x13hrafnulf"
 
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/0x13hrafnulf"
 
-- name: Twitter
+- name: X
   icon: "fab fa-twitter"
-  url: "https://twitter.com/hrafnulf13"
+  url: "https://x.com/hrafnulf13"
 
-- name: Email
+- type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
