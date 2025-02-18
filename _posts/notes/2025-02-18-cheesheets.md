@@ -1,0 +1,49 @@
+---
+title: Cheetsheets 
+description: Cheetsheets
+image:
+  path: cheetsheet.jpg
+categories:
+- Cheetsheets
+layout: post
+media_subpath: /assets/posts/notes
+tags:
+- cheetsheet
+---
+# Links
+List of cheetsheet and other useful links related to cybersecurity
+
+## Cheetsheets
+- https://www.thehacker.recipes/
+- https://www.ired.team/
+- https://orange-cyberdefense.github.io/ocd-mindmaps/
+- https://exploit-notes.hdks.org/
+- https://book.hacktricks.wiki/en/
+- https://swisskyrepo.github.io/InternalAllTheThings/
+- https://swisskyrepo.github.io/PayloadsAllTheThings/
+- https://swisskyrepo.github.io/HardwareAllTheThings/
+- https://pentestmonkey.net/
+
+## Generators
+- https://lolgen.hdks.org/
+- https://gtfobins.github.io/
+- https://www.loldrivers.io/
+- https://www.revshells.com/
+- https://gchq.github.io/CyberChef/
+- https://it-tools.tech/
+
+## Malware & Evasion
+- https://wadcoms.github.io/
+- https://lots-project.com/
+- https://ppn.snovvcrash.rocks/
+- https://evasions.checkpoint.com/
+- https://bible.malcore.io/
+- https://malapi.io/
+- https://filesec.io/
+- https://lolbas-project.github.io
+
+## Other 
+- https://github.com/An0nUD4Y/CRTO-Notes/blob/main/CRTO%20-%20Cheatsheet.md
+- https://github.com/0xJs/RedTeaming_CheatSheet/tree/main
+- https://hashcat.net/wiki/doku.php?id=example_hashes
+  
