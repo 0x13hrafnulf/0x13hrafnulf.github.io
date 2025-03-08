@@ -23,16 +23,18 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://swisskyrepo.github.io/PayloadsAllTheThings/](https://swisskyrepo.github.io/PayloadsAllTheThings/)
 - [https://swisskyrepo.github.io/HardwareAllTheThings/](https://swisskyrepo.github.io/HardwareAllTheThings/)
 - [https://pentestmonkey.net/](https://pentestmonkey.net/)
+- [https://viperone.gitbook.io](https://viperone.gitbook.io)
+- [https://red.infiltr8.io/](https://red.infiltr8.io/)
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
 - [https://gtfobins.github.io/](https://gtfobins.github.io/)
-- [https://www.loldrivers.io/](https://www.loldrivers.io/)
 - [https://www.revshells.com/](https://www.revshells.com/)
 - [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)
 - [https://it-tools.tech/](https://it-tools.tech/)
 
 ## Malware & Evasion
+- [https://lolol.farm/](https://lolol.farm/)
 - [https://wadcoms.github.io/](https://wadcoms.github.io/)
 - [https://lots-project.com/](https://lots-project.com/)
 - [https://ppn.snovvcrash.rocks/](https://ppn.snovvcrash.rocks/)
@@ -41,6 +43,9 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://malapi.io/](https://malapi.io/)
 - [https://filesec.io/](https://filesec.io/)
 - [https://lolbas-project.github.io](https://lolbas-project.github.io)
+- [https://loldrivers.io/](https://loldrivers.io/)
+- [https://lolrmm.io/](https://lolrmm.io/)
+- [https://hijacklibs.net/](https://hijacklibs.net/)
 
 ## Other 
 - [https://github.com/An0nUD4Y/CRTO-Notes](https://github.com/An0nUD4Y/CRTO-Notes/blob/main/CRTO%20-%20Cheatsheet.md)
