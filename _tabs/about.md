@@ -4,10 +4,10 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated April 23, 2025.
+Last updated April 22, 2025.
 
 # Certifications
-* [CAPE (April 23, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
+* [CAPE (April 22, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
 * [CWEE (November 23, 2024)](https://www.credly.com/badges/a26acf65-d95d-477f-8ec1-53a70c5894d8/public_url)
 * [CBBH (August 16, 2024)](https://www.credly.com/badges/9dc5a232-5920-40f9-a293-30915bc9e84e/public_url)
 * [CRTL (July 16, 2024)](https://api.eu.badgr.io/public/assertions/obJa8cz1SGips8IJ9Pi9FA?identity__email=hrafnulf13%40gmail.com)
