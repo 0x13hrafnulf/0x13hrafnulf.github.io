@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated April 22, 2025.
+Last updated May 12, 2025.
 
 # Certifications
 * [CAPE (April 22, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
@@ -18,6 +18,9 @@ Last updated April 22, 2025.
 
 | Course                                                                                                                       | Provider                                                        | Status    | Completion |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- | ---------- |
+| [Offensive Phishing Operations Course](https://maldevacademy.com/phishing-course/syllabus)                                   | [MalDev Academy](https://maldevacademy.com/)                    | Completed | May 2025   |
+| [BOF Development and Tradecraft](https://training.zeropointsecurity.co.uk/courses/bof-dev-and-tradecraft)                    | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed | May 2025   |
+| [AI Red Teamer ](https://academy.hackthebox.com/achievement/badge/e7322904-2915-11f0-864f-bea50ffe6cb4)                      | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | May 2025   |
 | [Active Directory Penetration Tester](https://academy.hackthebox.com/achievement/badge/c20eaa35-ae93-11ef-864f-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | Nov 2024   |
 | [Red Team Lead](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii)                                            | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed | May 2024   |
 | [Malware Development Course](https://maldevacademy.com/syllabus)                                                             | [MalDev Academy](https://maldevacademy.com/)                    | Completed | May 2024   |
