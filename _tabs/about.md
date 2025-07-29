@@ -18,9 +18,9 @@ Last updated July 29, 2025.
 
 | Course                                                                                                                       | Provider                                                        | Status    | Completion |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- | ---------- |
-| [Google Cloud Red Team Professional (GCRTP)](https://www.credly.com/badges/b20911e2-1861-4ded-8bdf-bf48776a7c26/public_url)  | [Pwned Labs](https://pwnedlabs.io)                              | July      | -          |
-| [Amazon Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/4d905a6e-5dbc-4284-813c-7008e70486cf/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | July      | -          |
-| [Microsoft Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/d19520e1-97fb-466e-8746-500189cf2c31/public_url) | [Pwned Labs](https://pwnedlabs.io)                              | June      | -          |
+| [Google Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/b20911e2-1861-4ded-8bdf-bf48776a7c26/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | Completed | July 2025  |
+| [Amazon Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/4d905a6e-5dbc-4284-813c-7008e70486cf/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | Completed | June 2025  |
+| [Microsoft Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/d19520e1-97fb-466e-8746-500189cf2c31/public_url) | [Pwned Labs](https://pwnedlabs.io)                              | Completed | May 2025   |
 | [Offensive Phishing Operations Course](https://maldevacademy.com/phishing-course/syllabus)                                   | [MalDev Academy](https://maldevacademy.com/)                    | Completed | May 2025   |
 | [BOF Development and Tradecraft](https://training.zeropointsecurity.co.uk/courses/bof-dev-and-tradecraft)                    | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed | May 2025   |
 | [AI Red Teamer ](https://academy.hackthebox.com/achievement/badge/e7322904-2915-11f0-864f-bea50ffe6cb4)                      | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | May 2025   |
