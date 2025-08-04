@@ -2,7 +2,7 @@
 title: Azure Blob Container to Initial Access
 description: Azure Blob Container to Initial Access
 image:
-  path: azure.png
+  path: azure.webp
 categories:
 - Pwned Labs
 - Azure
