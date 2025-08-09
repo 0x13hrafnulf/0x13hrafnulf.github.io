@@ -16,6 +16,12 @@ tags:
 # Scenario
 You are a security consultant hired by the global logistics company, Huge Logistics. Following suspicious activity, you are tasked with enumerating the IAM user dev01 and mapping out any potentially compromised resources. Your mission is to enumerate and evaluate IAM roles, policies, and permissions.
 
+Learning outcomes:
+
+- Familiarity with the AWS CLI
+- Understanding of the basic AWS IAM components
+- Ability to list, retrieve and interpret IAM policies
+
 # Walkthrough
 [AWS Identity and Access Management (IAM)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html) is a web service that helps you securely control access to AWS resources. With IAM, you can manage permissions that control which AWS resources users can access. You use IAM to control who is authenticated (signed in) and authorized (has permissions) to use resources. IAM provides the infrastructure necessary to control authentication and authorization for your AWS accounts.
 

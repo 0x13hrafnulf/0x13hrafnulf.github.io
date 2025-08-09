@@ -16,6 +16,14 @@ tags:
 # Scenario
 Gigantic Retail are a Fortune 50 company and therefore have a target on their back. Conscious that threat actors will be probing their infrastructure, they have provisionally engaged your team to assess the security of their on-premise and cloud environment. Your mission is to demonstrate impact and show them the value of retaining our services in the long-term.
 
+Learning outcomes:
+
+- Familiarity with the Google Cloud CLI
+- Enumerate Google File Storage
+- Discover and access hidden files using ffuf
+- Crack encrypted 7-Zip archives using Hashcat
+
+
 # Walkthrough
 We are given url, which redirects to website with static content
 
