@@ -16,8 +16,6 @@ tags:
 # Scenario
 It's your first day on the red team, and you've been tasked with examining a website that was found in a phished employee's bookmarks. Check it out and see where it leads! In scope is the company's infrastructure, including cloud services.
 
-Amazon S3 (Simple Storage Service) is a very popular (and the second oldest!) AWS service that is used to store files and backups, and can even be used to serve websites. This multi-use functionality has led some to argue that this service would be more secure if it were split into separate public web hosting and private file storage services. In recent years AWS have introduced more visual warnings when customers are making buckets world-readable, but still, if this setting is available, people will set it! Misconfigurations and overly permissive settings in S3 have resulted in many data breaches over the years.
-
 Learning outcomes
 
 - Familiarity with the AWS CLI
