@@ -2,7 +2,7 @@
 title: AWS S3 Enumeration Basics
 description: AWS S3 Enumeration Basics
 image:
-  path: aws.png
+  path: aws.jpg
 categories:
 - Pwned Labs
 - AWS
