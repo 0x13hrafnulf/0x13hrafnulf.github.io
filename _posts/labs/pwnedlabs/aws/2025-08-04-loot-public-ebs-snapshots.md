@@ -409,3 +409,26 @@ Get our flag
 └─$ aws s3 cp s3://ecorp-client-data/flag.txt -
 <REDACTED>   
 ```
+
+# Defense
+This part is from [lab's defense section](https://pwnedlabs.io/labs/loot-public-ebs-snapshots)
+
+AWS periodically notify customers that have public snapshots, and also state very clearly on the `Edit AMI permissions` and `Modify permissions` screen that this is not a recommended setting.
+
+If you identify that an unencrypted snapshot in your AWS account has been publicly exposed, you can:
+
+- Make it private
+- Rotate any credentials that were on it
+- Do an investigation of how it came to be publicly exposed
+
+To identify public snapshots
+```
+aws ec2 describe-snapshots --owner-id self --restorable-by-user-ids all --no-paginate
+```
+
+DataDog's Stratus Red Team [documentation](https://stratus-red-team.cloud/attack-techniques/AWS/aws.exfiltration.ec2-share-ebs-snapshot/) provides two sample CloudTrail events to monitor, for when a snapshot is made public and when attacker copies the snapshot to their own AWS account or creates an EBS volume for it, respectively.
+
+Resources;
+- [https://rhinosecuritylabs.com/aws/exploring-aws-ebs-snapshots/](https://www.youtube.com/watch?v=HXM1rBk_wXs)
+- [https://www.youtube.com/watch?v=HXM1rBk_wXs](https://rhinosecuritylabs.com/aws/exploring-aws-ebs-snapshots/)
+- [https://github.com/bishopfox/dufflebag](https://github.com/bishopfox/dufflebag)
