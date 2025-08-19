@@ -399,3 +399,20 @@ MySQL [GlobalSalesData]> select * from CustomerOrders;
 
 MySQL [GlobalSalesData]> 
 ```
+# Defense 
+This part is from [lab's defense section](https://pwnedlabs.io/labs/gain-entry-to-gcp-via-gitlab-commit)
+
+It is better to impersonate the service account, than to generate and download a service account key
+```
+gcloud --impersonate-service-account=<service_account> projects add-iam-policy-binding <project_id> --member='user:<user_email>' --role='<role>'
+```
+
+Also, use automated tools to check for leaked credentials, secrets etc. in repositories
+
+- [https://github.com/gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
+- [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)
+- [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)
+
+Customers' financial data should also be encrypted.
+
+Also, Google Cloud will automatically email the owner of the project that they have identified the leaked credential within 24 hours of the key being leaked.
