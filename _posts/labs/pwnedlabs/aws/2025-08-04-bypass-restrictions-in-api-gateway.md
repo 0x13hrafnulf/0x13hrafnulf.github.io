@@ -404,7 +404,7 @@ x-amz-cf-id: kByI8gjGmm8lQSf-HrXQwDaIMKLsLdFB0kmE1jZV9GfAlhipKNb5CQ==
 ```
 
 # Defense
-Based on lab's [Defense]([bypass-restrictions-in-api-gateway](https://pwnedlabs.io/labs/bypass-restrictions-in-api-gateway)) section.
+Based on lab's [Defense](https://pwnedlabs.io/labs/bypass-restrictions-in-api-gateway) section.
 
 - Review permissions and policies
 - Assume that a threat actor with a foothold in AWS may be able to increase their access at the application, service or account level. 
