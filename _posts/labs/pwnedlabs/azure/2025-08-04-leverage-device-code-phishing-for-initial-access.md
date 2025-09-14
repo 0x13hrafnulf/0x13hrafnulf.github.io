@@ -858,6 +858,8 @@ Attack path visualization created by [Mathias Persson](https://www.linkedin.com/
 ![](leverage-device-code-phishing-for-initial-access-8.png)
 
 # Defense
+This section is from [Walkthrough section](https://pwnedlabs.io/labs/leverage-device-code-phishing-for-initial-access) of the lab.
+
 For prevention, International Asset Management (and their MSSP Mega Big Tech) could require all logins to come from Azure managed devices. The token protection conditional access policy could also be enabled, that binds a user's refresh token to a particular managed device.
 
 Also, we can choose to disable the device code authentication flow or authentication transfer using conditional access
