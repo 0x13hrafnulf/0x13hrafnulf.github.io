@@ -1,6 +1,6 @@
 ---
-title: Unlock Access with Azure Key Vault
-description: Unlock Access with Azure Key Vault
+title: Unmask Privileged Access In Azure
+description: Unmask Privileged Access In Azure
 image:
   path: azure.webp
 categories:

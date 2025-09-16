@@ -22,13 +22,6 @@ Entra ID (previously Azure AD) is the identity provider for Azure subscriptions,
 
 An Azure subscription is a logical unit of Azure services that is linked to an Azure account. It serves as a single billing unit for Azure resources consumed and provides an isolated environment for resource management. Each Azure subscription has its own set of resource groups, resources, Azure Resource Manager templates, role-based access control policies, and billing settings.
 
-Learning Outcomes:
-
-- Familiarity with the Azure CLI and PowerShell
-- Enumeration for situational awareness and lateral movement
-- Access secrets in Azure Key Vault
-- Query data in Storage Tables
-
 # Walkthrough
 We are given credentials for `marcus`, let's login `az login`
 
