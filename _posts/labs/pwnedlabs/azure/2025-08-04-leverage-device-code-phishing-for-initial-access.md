@@ -110,11 +110,11 @@ We can also get the region using https://azservicetags.azurewebsites.net. This i
 ```
 Let's check the website https://international-am.com/ in a browser
 
-[](leverage-device-code-phishing-for-initial-access-1.png)
+![](leverage-device-code-phishing-for-initial-access-1.png)
 
 There's a client login page, which returns `support@international-am.com` support contact when we enter incorrect credentials
 
-[](leverage-device-code-phishing-for-initial-access-2.png)
+![](leverage-device-code-phishing-for-initial-access-2.png)
 
 Since the phishing is in scope, this could be useful. Seeing as this is a support account, it probably has some privileges that can be helpful. Let's send a phishing email to this mailbox.
 
@@ -128,7 +128,7 @@ Let's try device code phishing. It leverages the Entra ID device code authentica
 
 The process can be seen in the diagram below. Read more about the attack from here: [Introducing a new phishing technique for compromising Office 365 account](https://aadinternals.com/post/phishing/)
 
-[](leverage-device-code-phishing-for-initial-access-3.png)
+![](leverage-device-code-phishing-for-initial-access-3.png)
 
 First, let's complete steps 2 and 3 of the authentication flow. We see the default user code expiry time of `900` seconds (15 minutes). We specify the well-known Microsoft Office application ID as the client ID, to help make the request seem more legitimate (we can choose any application ID). A list of common Microsoft application IDs is available [here](https://learn.microsoft.com/en-us/troubleshoot/entra/entra-id/governance/verify-first-party-apps-sign-in#application-ids-of-commonly-used-microsoft-applications).
 ```

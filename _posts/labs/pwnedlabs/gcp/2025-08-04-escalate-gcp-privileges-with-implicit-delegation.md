@@ -130,7 +130,7 @@ Seems that `sv2-962@gr-proj-1.iam.gserviceaccount.com` can create create access 
 
 The [blog post from Rhino Security Labs](https://rhinosecuritylabs.com/gcp/privilege-escalation-google-cloud-platform-part-1/) is recommended reading to learn about this and other privilege escalation techniques. 
 
-[](escalate-gcp-privileges-with-implicit-delegation-1.png)
+![](escalate-gcp-privileges-with-implicit-delegation-1.png)
 
 Start the attack and escalate the privileges to `sv3-939@gr-proj-1.iam.gserviceaccount.com` . First, print the access token of `sv1-337`
 ```
