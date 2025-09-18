@@ -18,13 +18,15 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://www.ired.team/](https://www.ired.team/)
 - [https://orange-cyberdefense.github.io/ocd-mindmaps/](https://orange-cyberdefense.github.io/ocd-mindmaps/)
 - [https://exploit-notes.hdks.org/](https://exploit-notes.hdks.org/)
-- [https://book.hacktricks.wiki/en/](https://book.hacktricks.wiki/en/)
+- [https://book.hacktricks.wiki](https://book.hacktricks.wiki/en/)
+- [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/index.html)
 - [https://swisskyrepo.github.io/InternalAllTheThings/](https://swisskyrepo.github.io/InternalAllTheThings/)
 - [https://swisskyrepo.github.io/PayloadsAllTheThings/](https://swisskyrepo.github.io/PayloadsAllTheThings/)
 - [https://swisskyrepo.github.io/HardwareAllTheThings/](https://swisskyrepo.github.io/HardwareAllTheThings/)
 - [https://pentestmonkey.net/](https://pentestmonkey.net/)
 - [https://viperone.gitbook.io](https://viperone.gitbook.io)
 - [https://red.infiltr8.io/](https://red.infiltr8.io/)
+- [https://fareedfauzi.github.io/cheatsheets.html](https://fareedfauzi.github.io/cheatsheets.html)
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
@@ -46,6 +48,17 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://loldrivers.io/](https://loldrivers.io/)
 - [https://lolrmm.io/](https://lolrmm.io/)
 - [https://hijacklibs.net/](https://hijacklibs.net/)
+
+## Cloud
+### Azure
+- [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/)
+- [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/)
+### AWS
+- [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/)
+### GCP
+- [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/)
+## Mobile
+- 
 
 ## Other 
 - [https://github.com/An0nUD4Y/CRTO-Notes](https://github.com/An0nUD4Y/CRTO-Notes/blob/main/CRTO%20-%20Cheatsheet.md)
