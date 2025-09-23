@@ -17,14 +17,6 @@ tags:
 
 Mega Big Tech have adopted a hybrid cloud architecture and continues to use a local on-premise Active Directory domain, as well as the Azure cloud. They are wary of being targeted due to their importance in the tech world, and have asked your team to assess the security of their infrastructure, including cloud services. An interesting URL has been found in some public documentation, and you are tasked with assessing it.
 
-Learning outcomes:
-
-
-- Familiarity with the Azure CLI
-- Identification and enumeration of Azure Blob Container
-- Leverage blob previous version functionality to reveal secrets
-- Understand how this attack chain could have been prevented
-
 # Walkthrough
 We are given URL: `http://dev.megabigtech.com/$web/index.html`. Let's check the content. It seems like it's a static page.
 

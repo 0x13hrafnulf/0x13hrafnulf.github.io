@@ -219,7 +219,7 @@ We can copy the token to https://jwt.io. We see that the display name name of th
 
 Now use access token to get authenticated session using the Microsoft Graph PowerShell SDK. 
 ```
-└─PS> Connect-MgGraph -AccessToken ($access_token | ConvertTo-SecureString -AsPlainText -Force)                                                                                                                                             
+└─PS> Connect-MgGraph -AccessToken ($access_token | ConvertTo-SecureString -AsPlainText -Force)
 Welcome to Microsoft Graph!
 
 Connected via userprovidedaccesstoken access using d3590ed6-52b3-4102-aeff-aad2292ab01c

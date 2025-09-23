@@ -386,7 +386,7 @@ AdditionalProperties                  : {[@odata.context, https://graph.microsof
 
 Let's check administrative units that give users scoped permissions over other Entra ID resources (and implicitely other Azure resources)
 ```
-└─PS> Get-MgDirectoryAdministrativeUnit | fl                                                                                                                                                                                                
+└─PS> Get-MgDirectoryAdministrativeUnit | fl
 
 DeletedDateTime               : 
 Description                   : Scope to manage the authentication settings for the users belonging to the project.
@@ -474,7 +474,7 @@ Wz_yRLtppEGkF8VCd3LeQaqIMkqLGlpIjO0r2A_u9iWT6-WiZH3YQJ4jcVqcylESU 4a3288aa-1a8b-
 
 This returns the ID of a role that has been configured in the administrative unit. Running `Get-MgDirectoryRole` with the role ID we see that the privileged `User Administrator` permissions have been granted.
 ```
-└─PS> Get-MgDirectoryRole -DirectoryRoleId 44f23f5b-69bb-41a4-a417-c5427772de41 | fl                                                                                                                                                        
+└─PS> Get-MgDirectoryRole -DirectoryRoleId 44f23f5b-69bb-41a4-a417-c5427772de41 | fl
 
 DeletedDateTime      : 
 Description          : Can manage all aspects of users and groups, including resetting passwords for limited admins.

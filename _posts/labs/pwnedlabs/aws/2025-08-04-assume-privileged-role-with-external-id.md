@@ -77,7 +77,7 @@ There was nothing interesting in directories, but we found `config.json`, which 
 ```
 └─$ curl http://52.0.51.234/config.json
 {"aws": {
-        "accessKeyID": "AKIAWHEOTHRFYM6CAHHG",
+        "accessKeyID": "<REDACTED>",
         "secretAccessKey": "<REDACTED>",
         "region": "us-east-1",
         "bucket": "hl-data-download",
@@ -400,7 +400,7 @@ Let's assume the role (we have to set `--external-id 37911` since it was defined
 └─$ aws sts assume-role --role-arn arn:aws:iam::427648302155:role/ExternalCostOpimizeAccess --role-session-name ExternalCostOpimizeAccess --external-id 37911
 {
     "Credentials": {
-        "AccessKeyId": "ASIAWHEOTHRFT2TXIM5X",
+        "AccessKeyId": "<REDACTED>",
         "SecretAccessKey": "<REDACTED>",
         "SessionToken": "<REDACTED>",
         "Expiration": "2025-08-26T18:48:31Z"

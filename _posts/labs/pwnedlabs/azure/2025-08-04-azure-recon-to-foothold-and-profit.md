@@ -79,7 +79,7 @@ To retrieve Tenant ID
 
 In the past, it was possible to use `Invoke-AADIntReconAsOutsider -DomainName megabigtech.com` to [get other domains registered in Tenant](https://aadinternals.com/aadinternals/#invoke-aadintreconasoutsider), but unfortunately,  it was [patched](https://techcommunity.microsoft.com/blog/exchange/important-update-to-the-get-federationinformation-cmdlet-in-exchange-online/4410095). So now it only return the following info
 ```
-└─PS> Invoke-AADIntReconAsOutsider -DomainName megabigtech.com                                                                                                                                                                              
+└─PS> Invoke-AADIntReconAsOutsider -DomainName megabigtech.com
 Tenant brand:       Default Directory                                                                                   
 Tenant name:                                                                                                            
 Tenant id:          2590ccef-687d-493b-ae8d-441cbab63a72                                                                

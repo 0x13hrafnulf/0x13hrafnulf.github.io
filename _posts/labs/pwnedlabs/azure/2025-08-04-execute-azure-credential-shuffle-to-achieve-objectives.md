@@ -206,7 +206,7 @@ It worked
 ```
 Authenticate as the service principal. Set the app secret value below with the `secretText` value from the command above.
 ```
-$appsecret = ConvertTo-SecureString "sdM8Q~j3GoOfi4qska.OOmyDwACV9Dqajn0FEb7-" -AsPlainText -Force
+$appsecret = ConvertTo-SecureString "<REDACTED>" -AsPlainText -Force
 
 $cred = New-Object System.Management.Automation.PSCredential('3626d80c-9f3b-48f9-a445-65a1ad9129af',$appsecret) 
 

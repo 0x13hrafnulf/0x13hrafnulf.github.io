@@ -209,7 +209,7 @@ Inside we find another AWS key
     <CredentialEntry>
         <ServiceType>AWS IT Admin</ServiceType>
         <AccountID>794929857501</AccountID>
-        <AccessKeyID>AKIA3SFMDAPOQRFWFGCD</AccessKeyID>
+        <AccessKeyID><REDACTED></AccessKeyID>
         <SecretAccessKey><REDACTED></SecretAccessKey>
         <Notes>AWS credentials for production workloads. Do not share these keys outside of the organization.</Notes>
     </CredentialEntry>

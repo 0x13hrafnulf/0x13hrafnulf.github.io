@@ -421,7 +421,7 @@ Let's assume `BackendDev` role
 └─$ aws sts assume-role  --role-arn arn:aws:iam::794929857501:role/BackendDev --role-session-name backend-dev-session
 {
     "Credentials": {
-        "AccessKeyId": "ASIA3SFMDAPOQTFG3YSI",
+        "AccessKeyId": "<REDACTED>",
         "SecretAccessKey": "<REDACTED>",
         "SessionToken": "IQoJb3JpZ2luX<SNIP>nwpoj3l65/",
         "Expiration": "2025-08-05T21:03:18Z"
@@ -435,7 +435,7 @@ Let's assume `BackendDev` role
 ```
 Export temprorary credentials 
 ```
-└─$ export AWS_ACCESS_KEY_ID="ASIA3SFMDAPOQTFG3YSI"                        
+└─$ export AWS_ACCESS_KEY_ID="<REDACTED>"                        
 ```
 ```
 └─$ export AWS_SECRET_ACCESS_KEY="<REDACTED>"
