@@ -385,7 +385,7 @@ Or
 
 Identity KeyVaultUrl Name        Value
 -------- ----------- ----        -----
-                     account-key YpJR6AAtdiXuEAzOTYXVyl9Cbthco3pedbqwLnMakOE9wR9YXHFzuPUSy5rWMvGf4ydFwrVM9008ACDbzVVULQ==
+                     account-key <REDACTED>
 ```
 A quick google reveals that account key could refer to Azure storage accounts. The Azure CLI has functionality that allows us to exec against Container Apps. However, if we try and login to the Azure CLI on Linux (or any other user agent that Microsoft recognizes) we'll get the error below. That's because the conditional access policy in place for this user requires MFA when logging in from specific device platforms.
 ```
