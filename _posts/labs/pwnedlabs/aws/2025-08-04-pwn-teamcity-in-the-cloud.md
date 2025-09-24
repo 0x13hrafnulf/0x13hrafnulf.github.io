@@ -328,7 +328,7 @@ Use AWS Access Key that was displayed in the web console and the decrypted Secre
     - Any user that have this permission should be considered privileged, as they are able to login to the TeamCity server as the super user account. 
     - This super user account should ideally have been [disabled](https://www.jetbrains.com/help/teamcity/super-user.html) by specifying a property. 
     - The properties are stored in the `<TeamCity Data Directory>/config/internal.properties` file. 
-    - This is a [Java properties](http://en.wikipedia.org/wiki/.properties) file that can be edited manually with each `<property_name>=<property_value>` on a separate line.
+    - This is a [Java properties](https://en.wikipedia.org/wiki/.properties) file that can be edited manually with each `<property_name>=<property_value>` on a separate line.
 - Build agent was installed locally on the TeamCity server, which allowed us to execute commands in the context of root
   - Once on the server as root we could easily decrypt the TeamCity secrets. 
   - However it is possible to use a custom encryption key instead of the fixed key, which may slow an attacker down. 
