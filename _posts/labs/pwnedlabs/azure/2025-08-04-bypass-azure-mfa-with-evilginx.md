@@ -643,7 +643,7 @@ Under the `Include` section, it's recommended to select `Any device` instead of 
 
 As seen in the Azure sign-in logs, when user inputs the correct password and MFA code, it isn't flagged as suspicious.
 
-![](bypass-azure-mfa-with-evilginx-187.png)
+![](bypass-azure-mfa-with-evilginx-18.png)
 
 It's worth understanding what "normal" looks like in our environment, and alerting on spikes in managed identity activity that deviate from this normal behaviour.
 
