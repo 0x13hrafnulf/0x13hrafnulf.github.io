@@ -324,8 +324,7 @@ Id                                   : /subscriptions/ceff06cb-e29d-4486-a3ae-ea
 IdentityPrincipalId                  : 63410fce-5fe2-42f9-85cf-8463fff2d456
 IdentityTenantId                     : 2590ccef-687d-493b-ae8d-441cbab63a72
 IdentityType                         : SystemAssigned
-IdentityUserAssignedIdentity         : {
-                                       }
+IdentityUserAssignedIdentity         : {}
 LatestReadyRevisionName              : project-oakley--uamwltf
 LatestRevisionFqdn                   : 
 LatestRevisionName                   : project-oakley--uamwltf
@@ -345,18 +344,8 @@ SystemDataCreatedByType              : User
 SystemDataLastModifiedAt             : 5/20/2024 2:07:05 PM
 SystemDataLastModifiedBy             : ian_cloudpwned.com#EXT#@iancloudpwned.onmicrosoft.com
 SystemDataLastModifiedByType         : User
-Tag                                  : {
-                                       }
-TemplateContainer                    : {{
-                                         "resources": {
-                                           "cpu": 0.25,
-                                           "memory": "0.5Gi",
-                                           "ephemeralStorage": "1Gi"
-                                         },
-                                         "image": "mcr.microsoft.com/k8se/quickstart:latest",
-                                         "name": "project-oakley",
-                                         "probes": [ ]
-                                       }}
+Tag                                  : {}
+<SNIP>
 TemplateInitContainer                : 
 TemplateRevisionSuffix               : 
 TemplateServiceBind                  : 
