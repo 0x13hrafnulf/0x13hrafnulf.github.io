@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated August 4, 2025.
+Last updated September 30, 2025.
 
 # Certifications
 * [CAPE (April 22, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
@@ -16,39 +16,39 @@ Last updated August 4, 2025.
 
 # Courses & Training
 
-| Course                                                                                                                                                                  | Provider                                                        | Status      | Completion |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------- | ---------- |
-| [Google Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/b20911e2-1861-4ded-8bdf-bf48776a7c26/public_url)                                               | [Pwned Labs](https://pwnedlabs.io)                              | Completed   | July 2025  |
-| [Amazon Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/4d905a6e-5dbc-4284-813c-7008e70486cf/public_url)                                               | [Pwned Labs](https://pwnedlabs.io)                              | Completed   | June 2025  |
-| [Microsoft Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/d19520e1-97fb-466e-8746-500189cf2c31/public_url)                                            | [Pwned Labs](https://pwnedlabs.io)                              | Completed   | May 2025   |
-| [Offensive Phishing Operations Course](https://maldevacademy.com/phishing-course/syllabus)                                                                              | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2025   |
-| [BOF Development and Tradecraft](https://training.zeropointsecurity.co.uk/courses/bof-dev-and-tradecraft)                                                               | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2025   |
-| [AI Red Teamer ](https://academy.hackthebox.com/achievement/badge/e7322904-2915-11f0-864f-bea50ffe6cb4)                                                                 | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2025   |
-| [Active Directory Penetration Tester](https://academy.hackthebox.com/achievement/badge/c20eaa35-ae93-11ef-864f-bea50ffe6cb4)                                            | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Nov 2024   |
-| [Red Team Lead](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii)                                                                                       | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | May 2024   |
-| [Malware Development Course](https://maldevacademy.com/syllabus)                                                                                                        | [MalDev Academy](https://maldevacademy.com/)                    | Completed   | May 2024   |
-| [Red Team Operator](https://training.zeropointsecurity.co.uk/courses/red-team-ops)                                                                                      | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed   | Mar 2024   |
-| [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4)                                                  | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2024   |
-| [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                                                                    | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Jan 2024   |
-| [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)                                                             | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | May 2023   |
-| [Bug Bounty Hunter](https://academy.hackthebox.com/achievement/badge/04a53615-d774-11ed-acfc-bea50ffe6cb4)                                                              | [HTB Academy](https://academy.hackthebox.com/)                  | Completed   | Apr 2023   |
+| Course                                                                                                                       | Provider                                                        | Status    | Completion |
+| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- | ---------- |
+| [Google Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/b20911e2-1861-4ded-8bdf-bf48776a7c26/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | Completed | July 2025  |
+| [Amazon Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/4d905a6e-5dbc-4284-813c-7008e70486cf/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | Completed | June 2025  |
+| [Microsoft Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/d19520e1-97fb-466e-8746-500189cf2c31/public_url) | [Pwned Labs](https://pwnedlabs.io)                              | Completed | May 2025   |
+| [Offensive Phishing Operations Course](https://maldevacademy.com/phishing-course/syllabus)                                   | [MalDev Academy](https://maldevacademy.com/)                    | Completed | May 2025   |
+| [BOF Development and Tradecraft](https://training.zeropointsecurity.co.uk/courses/bof-dev-and-tradecraft)                    | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed | May 2025   |
+| [AI Red Teamer ](https://academy.hackthebox.com/achievement/badge/e7322904-2915-11f0-864f-bea50ffe6cb4)                      | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | May 2025   |
+| [Active Directory Penetration Tester](https://academy.hackthebox.com/achievement/badge/c20eaa35-ae93-11ef-864f-bea50ffe6cb4) | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | Nov 2024   |
+| [Red Team Lead](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii)                                            | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed | May 2024   |
+| [Malware Development Course](https://maldevacademy.com/syllabus)                                                             | [MalDev Academy](https://maldevacademy.com/)                    | Completed | May 2024   |
+| [Red Team Operator](https://training.zeropointsecurity.co.uk/courses/red-team-ops)                                           | [Zero-Point Security](https://training.zeropointsecurity.co.uk) | Completed | Mar 2024   |
+| [Senior Web Penetration Tester](https://academy.hackthebox.com/achievement/badge/f32475c2-f8ec-11ee-b18d-bea50ffe6cb4)       | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | Apr 2024   |
+| [SOC Analyst](https://academy.hackthebox.com/achievement/badge/8edafa55-a967-11ee-bfb6-bea50ffe6cb4)                         | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | Jan 2024   |
+| [Penetration Tester](https://academy.hackthebox.com/achievement/badge/36a7d89a-edc2-11ed-acfc-bea50ffe6cb4)                  | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | May 2023   |
+| [Bug Bounty Hunter](https://academy.hackthebox.com/achievement/badge/04a53615-d774-11ed-acfc-bea50ffe6cb4)                   | [HTB Academy](https://academy.hackthebox.com/)                  | Completed | Apr 2023   |
 
 # Labs
 
-| Lab                 | Provider                                | Status                                                                                                            | Completion |
-| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------- |
-| Chain Master        | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/Gex48lPVRaK0QYLlO934Sg?identity__email=hrafnulf13%40gmail.com) | Aug 2025   |
-| Wutai               | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/8TwFMsL3RUiV_hT0BSSkpA?identity__email=hrafnulf13@gmail.com)   | April 2025 |
-| AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025   |
-| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025   |
-| FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jan 2025   |
-| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Aug 2023   |
-| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Aug 2023   |
-| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jul 2023   |
-| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jul 2023   |
-| Ifrit               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -          |
-| Shinra              | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -          |
-| Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -          |
+| Lab                 | Provider                                | Status                                                                                                            | Completion     |
+| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------- |
+| Chain Master        | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/Gex48lPVRaK0QYLlO934Sg?identity__email=hrafnulf13%40gmail.com) | Aug 2025       |
+| Wutai               | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/8TwFMsL3RUiV_hT0BSSkpA?identity__email=hrafnulf13@gmail.com)   | April 2025     |
+| Shinra              | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://api.vulnlab.com/api/v1/share?id=b4efc701-b4e3-4a68-baad-1993269cd269)                         | September 2025 |
+| AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025       |
+| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025       |
+| FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jan 2025       |
+| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Aug 2023       |
+| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Aug 2023       |
+| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jul 2023       |
+| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jul 2023       |
+| Ifrit               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -              |
+| Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -              |
 
 
 # Pwn College
