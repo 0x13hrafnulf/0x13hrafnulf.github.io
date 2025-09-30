@@ -37,9 +37,9 @@ Last updated September 30, 2025.
 
 | Lab                 | Provider                                | Status                                                                                                            | Completion     |
 | ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------- |
+| Shinra              | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://api.vulnlab.com/api/v1/share?id=b4efc701-b4e3-4a68-baad-1993269cd269)                         | September 2025 |
 | Chain Master        | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/Gex48lPVRaK0QYLlO934Sg?identity__email=hrafnulf13%40gmail.com) | Aug 2025       |
 | Wutai               | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/8TwFMsL3RUiV_hT0BSSkpA?identity__email=hrafnulf13@gmail.com)   | April 2025     |
-| Shinra              | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://api.vulnlab.com/api/v1/share?id=b4efc701-b4e3-4a68-baad-1993269cd269)                         | September 2025 |
 | AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025       |
 | Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025       |
 | FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jan 2025       |
