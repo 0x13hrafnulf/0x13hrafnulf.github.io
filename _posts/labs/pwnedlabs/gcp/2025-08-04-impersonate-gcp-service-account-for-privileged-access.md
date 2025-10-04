@@ -434,7 +434,7 @@ Updated property [auth/impersonate_service_account].
 ```
 
 > It's good to `UNSET` an impersonation configuration at the end of the lab, or we can be met with gcloud complaints in other labs.
-> {: .prompt-info }
+{: .prompt-info }
 ```
 gcloud config unset auth/impersonate_service_account
 ```
