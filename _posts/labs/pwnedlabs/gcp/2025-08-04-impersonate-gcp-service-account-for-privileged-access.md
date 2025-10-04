@@ -453,6 +453,7 @@ Your active configuration is: [default]
 
 Retrieve the roles assigned to our impersonated user using the following command:
 ```
+└─$ gcloud projects get-iam-policy gr-proj-1 --flatten="bindings[].members" --filter="bindings.members=serviceaccount:intermediate-account-dev-team@gr-proj-1.iam.gserviceaccount.com" --format="value(bindings.role)"
 WARNING: This command is using service account impersonation. All API calls will be executed as [intermediate-account-dev-team@gr-proj-1.iam.gserviceaccount.com].
 WARNING: This command is using service account impersonation. All API calls will be executed as [intermediate-account-dev-team@gr-proj-1.iam.gserviceaccount.com].
 ROLE                   MEMBERS
