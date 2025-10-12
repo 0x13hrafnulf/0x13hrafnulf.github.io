@@ -17,12 +17,7 @@ tags:
 Huge Logistics, a global force in the logistics and shipping industry, has reached out to your firm for a comprehensive security evaluation spanning both their on-premises and cloud setups. Early reconnaissance pointed out the IP address 52.0.51.234 as part of their digital footprint. Your mission is clear: use this IP as your entry point, navigate laterally through their system, and determine potential areas of impact. This isn't just a test of their defenses, but a test of your skill to find weak spots in a vast network. Time to dive in and uncover what lies beneath!
 
 # Walkthrough
-We are given IP address
-```
-
-```
-
-Only port 80 is open, which hosts website
+We are given IP address. Only port 80 is open, which hosts website
 
 ![](assume-privileged-role-with-external-id-1.png)
 
