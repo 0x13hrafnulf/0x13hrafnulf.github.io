@@ -27,6 +27,7 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://viperone.gitbook.io](https://viperone.gitbook.io)
 - [https://red.infiltr8.io/](https://red.infiltr8.io/)
 - [https://fareedfauzi.github.io/cheatsheets.html](https://fareedfauzi.github.io/cheatsheets.html)
+- [https://tldrbins.github.io/](https://tldrbins.github.io/)
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
