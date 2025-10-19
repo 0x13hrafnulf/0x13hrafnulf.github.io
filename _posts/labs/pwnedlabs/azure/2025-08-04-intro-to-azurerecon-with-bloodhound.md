@@ -287,7 +287,7 @@ We can also access this file using the Portal console. Log into Azure as `securi
 # Attack path
 Attack path visualization created by [Mathias Persson](https://www.linkedin.com/in/mathias-persson-582b60197/) for Pwned Labs
 
-![](intro-to-azure-recon-with-bloodhound-7.png)
+![](intro-to-azure-recon-with-bloodhound-8.png)
 
 # Defense
 - Control membership of the `ATTRIBUTE DEFINITION READER` and `ATTRIBUTE ASSIGNMENT READER` roles, and ideally not use attributes to store credentials (security attributes currently in [preview](https://learn.microsoft.com/en-us/entra/fundamentals/custom-security-attributes-overview)).
