@@ -1,6 +1,6 @@
 ---
-title: AWS S3 Enumeration Basics
-description: AWS S3 Enumeration Basics
+title: Identify the AWS Account ID from a Public S3 Bucket
+description: Identify the AWS Account ID from a Public S3 Bucket
 image:
   path: aws.jpg
 categories:
