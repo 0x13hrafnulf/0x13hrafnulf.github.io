@@ -4,14 +4,18 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated September 30, 2025.
+Last updated November 15, 2025.
 
 # Certifications
+* [Multi-Cloud Red Team Professional (M-CRTP3) (November 15, 2025)](https://www.credly.com/badges/42b25cb3-b07b-46e0-9dfb-e1bf0aee3871/public_url)
+* [Microsoft Cloud Red Team Professional (MCRTP) (November 15, 2025)](https://www.credly.com/badges/4ecc4e79-950f-4ed6-a13d-3bdec2de49c5/public_url)
+* [Amazon Cloud Red Team Professional (ACRTP) (November 08, 2025)](https://www.credly.com/badges/f23e6283-3bcf-4186-9ebe-8d28a279e7b0/public_url)
+* [Google Cloud Red Team Professional (GCRTP) (November 02, 2025)](https://www.credly.com/badges/5b63b868-2eb3-402c-9b22-a117cbe6e8b2/public_url)
 * [CAPE (April 22, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
 * [CWEE (November 23, 2024)](https://www.credly.com/badges/a26acf65-d95d-477f-8ec1-53a70c5894d8/public_url)
 * [CBBH (August 16, 2024)](https://www.credly.com/badges/9dc5a232-5920-40f9-a293-30915bc9e84e/public_url)
-* [CRTL (July 16, 2024)](https://api.eu.badgr.io/public/assertions/obJa8cz1SGips8IJ9Pi9FA?identity__email=hrafnulf13%40gmail.com)
-* [CRTO (April 8, 2024)](https://api.eu.badgr.io/public/assertions/b4HNU6ORSu6I-UItuCdTlQ?identity__email=hrafnulf13%40gmail.com)
+* [CRTL (July 16, 2024)](https://badges.parchment.eu/public/assertions/obJa8cz1SGips8IJ9Pi9FA?identity__email=hrafnulf13%40gmail.com)
+* [CRTO (April 8, 2024)](https://badges.parchment.eu/public/assertions/b4HNU6ORSu6I-UItuCdTlQ?identity__email=hrafnulf13%40gmail.com)
 * [CPTS (January 20, 2024)](https://www.credly.com/badges/e933a070-c9e7-4159-a06a-6c42a5482185/public_url)
 
 # Courses & Training
@@ -35,20 +39,20 @@ Last updated September 30, 2025.
 
 # Labs
 
-| Lab                 | Provider                                | Status                                                                                                            | Completion     |
-| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------- |
-| Shinra              | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://api.vulnlab.com/api/v1/share?id=b4efc701-b4e3-4a68-baad-1993269cd269)                         | September 2025 |
-| Chain Master        | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/Gex48lPVRaK0QYLlO934Sg?identity__email=hrafnulf13%40gmail.com) | Aug 2025       |
-| Wutai               | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://eu.badgr.com/public/assertions/8TwFMsL3RUiV_hT0BSSkpA?identity__email=hrafnulf13@gmail.com)   | April 2025     |
-| AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025       |
-| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Feb 2025       |
-| FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jan 2025       |
-| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Aug 2023       |
-| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Aug 2023       |
-| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jul 2023       |
-| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                         | Jul 2023       |
-| Ifrit               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -              |
-| Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                           | -              |
+| Lab                 | Provider                                | Status                                                                                                                   | Completion     |
+| ------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| Shinra              | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://badges.parchment.eu/public/assertions/0IE4ZnDqSMS5x5VnJjLK1w?identity__email=hrafnulf13%40gmail.com) | September 2025 |
+| Chain Master        | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://badges.parchment.eu/public/assertions/Gex48lPVRaK0QYLlO934Sg?identity__email=hrafnulf13%40gmail.com) | Aug 2025       |
+| Wutai               | [VulnLabs](https://www.vulnlab.com/)    | [Completed](https://badges.parchment.eu/public/assertions/8TwFMsL3RUiV_hT0BSSkpA?identity__email=hrafnulf13%40gmail.com) | April 2025     |
+| AptLabs Pro Lab     | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Feb 2025       |
+| Cybernetics Pro Lab | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Feb 2025       |
+| FullHouse Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Jan 2025       |
+| Rastalabs Pro Lab   | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Aug 2023       |
+| Offshore Pro Lab    | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Aug 2023       |
+| Dante Pro Lab       | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Jul 2023       |
+| Zephyr Pro Lab      | [HTB Labs](https://app.hackthebox.com/) | Completed                                                                                                                | Jul 2023       |
+| Ifrit               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                                  | -              |
+| Shiva               | [VulnLabs](https://www.vulnlab.com/)    | Pending                                                                                                                  | -              |
 
 
 # Pwn College
