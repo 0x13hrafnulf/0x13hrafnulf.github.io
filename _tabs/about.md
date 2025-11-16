@@ -11,12 +11,12 @@ Last updated November 15, 2025.
 * [Microsoft Cloud Red Team Professional (MCRTP) (November 15, 2025)](https://www.credly.com/badges/4ecc4e79-950f-4ed6-a13d-3bdec2de49c5/public_url)
 * [Amazon Cloud Red Team Professional (ACRTP) (November 08, 2025)](https://www.credly.com/badges/f23e6283-3bcf-4186-9ebe-8d28a279e7b0/public_url)
 * [Google Cloud Red Team Professional (GCRTP) (November 02, 2025)](https://www.credly.com/badges/5b63b868-2eb3-402c-9b22-a117cbe6e8b2/public_url)
-* [CAPE (April 22, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
-* [CWEE (November 23, 2024)](https://www.credly.com/badges/a26acf65-d95d-477f-8ec1-53a70c5894d8/public_url)
-* [CBBH (August 16, 2024)](https://www.credly.com/badges/9dc5a232-5920-40f9-a293-30915bc9e84e/public_url)
-* [CRTL (July 16, 2024)](https://badges.parchment.eu/public/assertions/obJa8cz1SGips8IJ9Pi9FA?identity__email=hrafnulf13%40gmail.com)
-* [CRTO (April 8, 2024)](https://badges.parchment.eu/public/assertions/b4HNU6ORSu6I-UItuCdTlQ?identity__email=hrafnulf13%40gmail.com)
-* [CPTS (January 20, 2024)](https://www.credly.com/badges/e933a070-c9e7-4159-a06a-6c42a5482185/public_url)
+* [HTB Certified Active Directory Pentesting Expert (HTB CAPE) (April 22, 2025)](https://www.credly.com/badges/8feaf108-0e9b-485d-a8a2-47bf21356b09/public_url)
+* [HTB Certified Web Exploitation Expert (HTB CWEE) (November 23, 2024)](https://www.credly.com/badges/a26acf65-d95d-477f-8ec1-53a70c5894d8/public_url)
+* [Hack The Box Certified Web Exploitation Specialist (HTB CWES) (August 16, 2024)](https://www.credly.com/badges/9dc5a232-5920-40f9-a293-30915bc9e84e/public_url)
+* [Red Team Lead by Zero-Point Security (CRTL) (July 16, 2024)](https://badges.parchment.eu/public/assertions/obJa8cz1SGips8IJ9Pi9FA?identity__email=hrafnulf13%40gmail.com)
+* [Red Team Operator by Zero-Point Security (CRTO) (April 8, 2024)](https://badges.parchment.eu/public/assertions/b4HNU6ORSu6I-UItuCdTlQ?identity__email=hrafnulf13%40gmail.com)
+* [Hack The Box Certified Penetration Testing Specialist (HTB CPTS) (January 20, 2024)](https://www.credly.com/badges/e933a070-c9e7-4159-a06a-6c42a5482185/public_url)
 
 # Courses & Training
 
