@@ -28,6 +28,14 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://red.infiltr8.io/](https://red.infiltr8.io/)
 - [https://fareedfauzi.github.io/cheatsheets.html](https://fareedfauzi.github.io/cheatsheets.html)
 - [https://tldrbins.github.io/](https://tldrbins.github.io/)
+- [https://pathfinding.cloud/](https://pathfinding.cloud/)
+- [https://threats.wiz.io/all-tools](https://threats.wiz.io/all-tools)
+- [https://kadenzipfel.github.io/smart-contract-vulnerabilities/](https://kadenzipfel.github.io/smart-contract-vulnerabilities/)
+- [https://swcregistry.io/](https://swcregistry.io/)
+- [https://fareedfauzi.github.io/cheatsheets.html](https://fareedfauzi.github.io/cheatsheets.html)
+- [https://payloadplayground.com/](https://payloadplayground.com/)
+- [https://hideandsec.sh/books/cheatsheets-82c/page/active-directory](https://hideandsec.sh/books/cheatsheets-82c/page/active-directory)
+
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
@@ -49,13 +57,18 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://loldrivers.io/](https://loldrivers.io/)
 - [https://lolrmm.io/](https://lolrmm.io/)
 - [https://hijacklibs.net/](https://hijacklibs.net/)
+- [https://tldrbins.github.io/](https://tldrbins.github.io/)
+- [https://evasions.checkpoint.com/](https://evasions.checkpoint.com/)
+- [https://amsi.fail/](https://amsi.fail/)
 
 ## Cloud
+- [https://rhinosecuritylabs.com/](https://rhinosecuritylabs.com/)
 ### Azure
 - [Microsoft Graph Permissions Explorer](https://graphpermissions.merill.net/permission/)
 - [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/)
 ### AWS
 - [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/)
+- [https://themayor.notion.site/penetration-testing-and-auditing-aws](https://themayor.notion.site/penetration-testing-and-auditing-aws)
 ### GCP
 - [https://cloud.hacktricks.wiki](https://cloud.hacktricks.wiki/en/)
 ## Mobile
