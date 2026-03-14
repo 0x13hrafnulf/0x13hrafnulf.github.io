@@ -85,8 +85,8 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://kubernetes-threat-matrix.redguard.ch](https://kubernetes-threat-matrix.redguard.ch)
 ## Blockchain
 - [https://kadenzipfel.github.io/smart-contract-vulnerabilities/](https://kadenzipfel.github.io/smart-contract-vulnerabilities/)
-- [https://swcregistry.io/](http://swcregistry.io/)
-- [https://smartcontractshacking.com/attacks](http://smartcontractshacking.com/attacks)
+- [https://swcregistry.io/](https://swcregistry.io/)
+- [https://smartcontractshacking.com/attacks](https://smartcontractshacking.com/attacks)
 
 ## Other 
 - [https://github.com/An0nUD4Y/CRTO-Notes](https://github.com/An0nUD4Y/CRTO-Notes/blob/main/CRTO%20-%20Cheatsheet.md)
