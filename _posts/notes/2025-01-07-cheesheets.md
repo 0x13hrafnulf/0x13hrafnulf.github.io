@@ -36,16 +36,9 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://fareedfauzi.github.io/cheatsheets.html](https://fareedfauzi.github.io/cheatsheets.html)
 - [https://payloadplayground.com/](https://payloadplayground.com/)
 - [https://hideandsec.sh/books/cheatsheets-82c/page/active-directory](https://hideandsec.sh/books/cheatsheets-82c/page/active-directory)
-- [BypassAV](https://github.com/matro7sh/BypassAV/tree/main)
-- [Red Team Map](https://kypvas.github.io/red-team-map/)
-- [AD Attack Architecture](https://kypvas.github.io/ad_attack_architecture/)
-- [https://amsi.fail/](https://amsi.fail/)
-- [https://evasions.checkpoint.com/](https://evasions.checkpoint.com/)
 - [https://tldrbins.github.io/](https://tldrbins.github.io/)
-- [Initial Access The Art of Getting In](https://0xdbgman.github.io/posts/initial-access-the-art-of-getting-in/)
-- [Persistence: The Art of Staying In](https://0xdbgman.github.io/posts/persistence-the-art-of-staying-in/)
-- [Red Team Infrastructure The Full Picture: From Domain to Beacon](https://0xdbgman.github.io/posts/red-team-infrastructure-the-full-picture/)
 - [https://sh3lldon.github.io/posts/exp-301-cheetsheet/](https://sh3lldon.github.io/posts/exp-301-cheetsheet/)
+- [https://lottunnels.github.io/](https://lottunnels.github.io/#)
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
@@ -72,7 +65,9 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://evasions.checkpoint.com/](https://evasions.checkpoint.com/)
 - [https://amsi.fail/](https://amsi.fail/)
 - [https://opensourcemalware.com/](https://opensourcemalware.com/)
-
+- [BypassAV](https://github.com/matro7sh/BypassAV/tree/main)
+- [https://evasions.checkpoint.com/](https://evasions.checkpoint.com/)
+- 
 ## Cloud
 - [https://rhinosecuritylabs.com/](https://rhinosecuritylabs.com/)
 ### Azure
