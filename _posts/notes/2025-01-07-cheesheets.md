@@ -39,6 +39,7 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://tldrbins.github.io/](https://tldrbins.github.io/)
 - [https://sh3lldon.github.io/posts/exp-301-cheetsheet/](https://sh3lldon.github.io/posts/exp-301-cheetsheet/)
 - [https://lottunnels.github.io/](https://lottunnels.github.io/#)
+- [https://lolexfil.github.io/](https://lolexfil.github.io/)
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
