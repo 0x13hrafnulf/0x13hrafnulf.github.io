@@ -7,6 +7,7 @@ order: 5
 Last updated November 15, 2025.
 
 # Certifications
+* [HTB Certified Defensive Security Analyst (HTB CDSA) (March 20, 2026)](https://www.credly.com/badges/95e5ccb7-9005-43d4-b1e9-d354f925c264/public_url)
 * [Multi-Cloud Red Team Professional (M-CRTP3) (November 15, 2025)](https://www.credly.com/badges/42b25cb3-b07b-46e0-9dfb-e1bf0aee3871/public_url)
 * [Microsoft Cloud Red Team Professional (MCRTP) (November 15, 2025)](https://www.credly.com/badges/4ecc4e79-950f-4ed6-a13d-3bdec2de49c5/public_url)
 * [Amazon Cloud Red Team Professional (ACRTP) (November 08, 2025)](https://www.credly.com/badges/f23e6283-3bcf-4186-9ebe-8d28a279e7b0/public_url)

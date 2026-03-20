@@ -40,6 +40,10 @@ List of cheetsheet and other useful links related to cybersecurity
 - [https://sh3lldon.github.io/posts/exp-301-cheetsheet/](https://sh3lldon.github.io/posts/exp-301-cheetsheet/)
 - [https://lottunnels.github.io/](https://lottunnels.github.io/#)
 - [https://lolexfil.github.io/](https://lolexfil.github.io/)
+- [https://detection.wiki/](https://detection.wiki/)
+- [https://www.edr-telemetry.com/](https://www.edr-telemetry.com/)
+- [https://github.com/matro7sh/BypassAV/tree/main](https://github.com/matro7sh/BypassAV/tree/main)
+- [https://an0nud4y.notion.site/AV-EDR-Lab-Env-Setup](https://an0nud4y.notion.site/AV-EDR-Lab-Env-Setup-130bc870022d8071935cc682d3eb34b9)
 
 ## Generators
 - [https://lolgen.hdks.org/](https://lolgen.hdks.org/)
