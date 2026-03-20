@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated November 15, 2025.
+Last updated March 20, 2026.
 
 # Certifications
 * [HTB Certified Defensive Security Analyst (HTB CDSA) (March 20, 2026)](https://www.credly.com/badges/95e5ccb7-9005-43d4-b1e9-d354f925c264/public_url)
