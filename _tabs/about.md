@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Last updated May 3, 2026.
+Last updated May 19, 2026.
 
 # Certifications
 * [HTB Certified Defensive Security Analyst (HTB CDSA) (March 20, 2026)](https://www.credly.com/badges/95e5ccb7-9005-43d4-b1e9-d354f925c264/public_url)
@@ -23,8 +23,10 @@ Last updated May 3, 2026.
 
 | Course                                                                                                                       | Provider                                                        | Status    | Completion |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | --------- | ---------- |
+| [Certified Kubernetes Security Specialist](https://learn.kodekloud.com/certificate/3abb079e-9de7-4bed-b159-1cd1b05c5662)     | [KodeKloud](https://kodekloud.com)                              | Completed | May 2026   |
+| [Certified Kubernetes Application Developer](https://learn.kodekloud.com/certificate/b8bd1d82-0a21-43db-a7be-1815921006c6)   | [KodeKloud](https://kodekloud.com)                              | Completed | May 2026   |
 | [Malwareless Adversarial Emulation](https://lms.zsec.red/verify/MAE-2026-VYPLBFZEPQ)                                         | [ZephrSec](https://lms.zsec.red)                                | Completed | May 2026   |
-| Certified Kubernetes Administrator                                                                                           | [KodeKloud](https://kodekloud.com)                              | Completed | April 2026 |
+| [Certified Kubernetes Administrator](https://learn.kodekloud.com/certificate/6b158ead-be55-4c36-9796-fbecef6dcebd)           | [KodeKloud](https://kodekloud.com)                              | Completed | April 2026 |
 | [Google Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/b20911e2-1861-4ded-8bdf-bf48776a7c26/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | Completed | July 2025  |
 | [Amazon Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/4d905a6e-5dbc-4284-813c-7008e70486cf/public_url)    | [Pwned Labs](https://pwnedlabs.io)                              | Completed | June 2025  |
 | [Microsoft Cloud Attack and Defense Bootcamp](https://www.credly.com/badges/d19520e1-97fb-466e-8746-500189cf2c31/public_url) | [Pwned Labs](https://pwnedlabs.io)                              | Completed | May 2025   |
